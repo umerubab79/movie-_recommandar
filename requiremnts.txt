@@ -1,0 +1,24 @@
+#------------
+#core api
+#-----------
+fastapi
+uvicorn
+python-dotenv
+httpx
+
+#------------------
+#data and ml 
+#------------------
+numpy
+scipy
+pandas
+scikit-learn
+joblib
+
+#---------------------
+#frontend
+#---------------------
+streamlit
+#---------------------
+run command = streamlit run app.py
+
