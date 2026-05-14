@@ -20,5 +20,5 @@ joblib
 #---------------------
 streamlit
 #---------------------
-run command = streamlit run app.py
+
 
